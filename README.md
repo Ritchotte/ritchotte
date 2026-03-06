@@ -1,4 +1,4 @@
-### Hey, I'm Ruth Anna 👋
+### Hey, I'm Ruth 👋
 
 Backend-focused software engineer interested in systems, automation, and AI infrastructure.
 

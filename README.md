@@ -4,7 +4,7 @@ Backend-focused software engineer interested in systems, automation, and AI infr
 
 I like building systems, tracing issues through logs, and figuring out why software behaves the way it does.
 
-## What I'm currently building 
+### What I'm currently building 
 -
 
 ### What I'm working on
@@ -13,7 +13,7 @@ I like building systems, tracing issues through logs, and figuring out why softw
 ### Tech I work with
 TypeScript • Node.js • PostgreSQL • AWS • Playwright • Git
 
-## Past Projects
+### Past Projects
 - ⚙️ workflow-engine — event-driven task processing system
 - 🐞 bug-tracker-demo — backend service for tracking system issues
 - 🧪 playwright-api-testing — automated API validation tests

@@ -5,7 +5,7 @@ Backend-focused software engineer interested in systems, automation, and AI infr
 I like building systems, tracing issues through logs, and figuring out why software behaves the way it does.
 
 ### What I'm currently building 
--
+Studion — an AI-powered operating system that helps university students manage assignments, deadlines, and study workflows.
 
 ### What I'm working on
 - Developing a PWA community marketplace platform for a client

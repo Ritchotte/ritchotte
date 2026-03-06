@@ -9,7 +9,7 @@ I like building systems, tracing issues through logs, and figuring out why softw
 ## 🚀 What I'm Currently Building
 
 **Client Work:**  
-Developing a PWA community marketplace platform
+Currently developing a PWA marketplace platform
 
 **Passion Project:**  
 [**Studion**](https://github.com/Ritchotte/Studion) — An AI-powered operating system that helps university students manage assignments, deadlines, and study workflows automatically.

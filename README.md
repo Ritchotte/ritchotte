@@ -8,7 +8,7 @@ I like building systems, tracing issues through logs, and figuring out why softw
 - Developing a PWA community marketplace platform for a client
 
 ### Current passion project
-Studion — an AI-powered operating system that helps university students manage assignments, deadlines, and study workflows.
+- Studion, an AI-powered operating system that helps university students manage assignments, deadlines, and study workflows.
 
 ### Tech I work with
 TypeScript • Node.js • PostgreSQL • AWS • Playwright • Git 

@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ruth 👋
 
-<!--
-**Ritchotte/ritchotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused software engineer interested in systems, automation, and AI infrastructure.
 
-Here are some ideas to get you started:
+I like building systems, tracing issues through logs, and figuring out why software behaves the way it does.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently building 
+-
+
+### What I'm working on
+- Developing a PWA community marketplace platform for a client
+
+### Tech I work with
+TypeScript • Node.js • PostgreSQL • AWS • Playwright • Git
+
+## Past Projects
+- ⚙️ workflow-engine — event-driven task processing system
+- 🐞 bug-tracker-demo — backend service for tracking system issues
+- 🧪 playwright-api-testing — automated API validation tests
+
+### Contact
+📫 ruthannaritchotte@gmail.com

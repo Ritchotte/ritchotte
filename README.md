@@ -10,7 +10,7 @@ I'm a student at BCIT and a backend-leaning engineer. I spend most of my time fi
 
 > **"I complexly enjoy building simply."**
 
-To me, "simple" is the result of exhaustive effort. It is the hard-won clarity that comes after managing the mess.
+To me, "simple" is the result of exhaustive effort. It is the hard-won clarity that comes after managing complex systems.
 
 * **Complexity** is where I spend my time: in the research, the edge cases, and the rigorous testing.
 * **Simplicity** is what I deliver: clean API design, clear documentation, and code that's easy to live with.

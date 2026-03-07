@@ -2,7 +2,7 @@
 
 ** Software Engineer** | Systems, Automation, & AI Infrastructure
 
-> I'm a student at BCIT and a backend-leaning engineer. I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture. 
+**I'm a student at BCIT and a backend-leaning engineer. I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture.**
 ---
 
 ## 🔧 Engineering Philosophy
@@ -73,7 +73,3 @@ Architecting a high-performance Progressive Web App marketplace with a focus on 
 
 ---
 
-### 📊 GitHub Stats
-![Ruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritchotte&show_icons=true&theme=transparent&hide_border=true)
-
-*"Good software is built by people who care about why things break."*

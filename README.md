@@ -24,7 +24,7 @@ An AI-powered operating system for university students. It automates the "meta-w
 * **Tech:** TypeScript, AI SDKs, Automated Workflow Logic.
 
 ### 🌐 Marketplace PWA — *Client Work*
-Architecting a high-performance Progressive Web App marketplace with a focus on offline-first capabilities and lightning-fast backend response times.
+Architecting a high-performance Progressive Web App marketplace with a focus on a re-usable API backend infrastructure built to scale and eventually go native. 
 
 ---
 

@@ -1,9 +1,8 @@
-# Hey, I'm Ruth 👋
+# Hi there, I'm Ruth 👋
 
-**Backend-focused Software Engineer** | Systems, Automation, & AI Infrastructure
+** Software Engineer** | Systems, Automation, & AI Infrastructure
 
-I don’t just write code; I build systems. I’m the person who actually *enjoys* diving into deep-production logs to find the "why" behind an edge case. I believe the best software is built by people who care deeply about why things break.
-
+I'm a student at BCIT and a backend-leaning engineer. I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture. 
 ---
 
 ## 🔧 Engineering Philosophy
@@ -12,9 +11,8 @@ I don’t just write code; I build systems. I’m the person who actually *enjoy
 
 To me, "simple" is the result of exhaustive effort. It is the hard-won clarity that comes after managing the mess.
 
-* **Complexity** belongs in the research, the deep-dive testing, and the edge cases.
-* **Simplicity** belongs in the API design, the implementation, and the maintainability.
-* **Observability** is the bridge—making sure that when things break, the answer is obvious.
+* **Complexity** is where I spend my time: in the research, the edge cases, and the rigorous testing.
+* **Simplicity** s what I deliver: clean API design, clear documentation, and code that's easy to live with.
 
 ---
 

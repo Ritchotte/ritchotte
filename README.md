@@ -72,4 +72,4 @@ Architecting a high-performance Progressive Web App marketplace with a focus on 
 * 📍 **Location:** White Rock, BC
 * 🎓 **Institution:** BCIT - Computer Systems Technology
 
-* There's a certain sweetness in building something great, and not being remembered for it. 
+> There's a certain sweetness in building something great, and not being remembered for it. - Ruth

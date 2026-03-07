@@ -4,7 +4,13 @@ Backend-focused software engineer interested in systems, automation, and AI infr
 
 I like building systems, tracing issues through logs, and figuring out why software behaves the way it does.
 
----
+##🔧 Engineering Philosophy
+
+"I complexly enjoy building simply."
+
+Complexity is in the research, the testing, and the edge cases.
+
+Simplicity is in the API design, the UI, and the maintainability.
 
 ## 🚀 What I'm Currently Building
 

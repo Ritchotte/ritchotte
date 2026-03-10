@@ -1,6 +1,6 @@
 # Hi there, I'm Ruth 👋
 
-**Software Engineer** 
+**Software Developer ** 
 
 I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture.
 

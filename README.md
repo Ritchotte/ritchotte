@@ -1,8 +1,8 @@
 # Hi there, I'm Ruth 👋
 
-**Software Engineer** | Systems, Automation, & AI Infrastructure
+**Software Engineer** 
 
-I'm a student at BCIT and a backend-leaning engineer. I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture.
+I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture.
 
 ---
 
@@ -69,7 +69,3 @@ Architecting a high-performance Progressive Web App marketplace with a focus on 
 ## 📫 Connect with Me
 
 * 📧 **Email:** ruthannaritchotte@gmail.com
-* 📍 **Location:** White Rock, BC
-* 🎓 **Institution:** BCIT - Computer Systems Technology
-
-> There's a certain sweetness in building something great, and not being remembered for it. - Ruth

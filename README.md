@@ -1,29 +1,33 @@
-# Hi there, I'm Ruth 👋
+# Hi, I'm Ruth 👋
+# Hi, I'm Ruth 👋
 
+I build systems that handle complexity so people don't have to. My work spans AI infrastructure, full-stack platforms, and automation — with a focus on architecture that scales cleanly and code that's easy to live with long-term.
 
-I spend most of my time figuring out how to make complex systems feel simple—whether that's through automation, AI infrastructure, or just better architecture.
-
+Currently at **BCIT** and **Mila Institute**.
 ---
 
 ## 🔧 Engineering Philosophy
 
 > **"I complexly enjoy building simply."**
 
-To me, "simple" is the result of exhaustive effort. It is the hard-won clarity that comes after managing complex systems.
+Simple is the hardest thing to ship. It's the result of exhaustive research, ruthless refactoring, and understanding a problem deeply enough to know what to leave out.
 
-* **Complexity** is where I spend my time: in the research, the edge cases, and the rigorous testing.
-* **Simplicity** is what I deliver: clean API design, clear documentation, and code that's easy to live with.
+- **Complexity** is where I do the work — edge cases, system design, rigorous testing
+- **Simplicity** is what I deliver — clean APIs, clear documentation, code worth maintaining
 
 ---
 
 ## 🚀 What I'm Currently Building
 
 ### 🛠️ [Studion](https://github.com/Ritchotte/Studion) — *Passion Project*
-An AI-powered operating system for university students. It automates the "meta-work" of education by syncing assignments, deadlines, and study workflows into a unified, intelligent dashboard.
-* **Tech:** TypeScript, AI SDKs, Automated Workflow Logic.
+An AI-powered operating system for students. Studion automates the meta-work of education — syncing assignments, deadlines, and study workflows into a unified intelligent dashboard so students can focus on learning, not logistics.
 
-### 🌐 Marketplace PWA — *Client Work*
-Architecting a high-performance Progressive Web App marketplace with a focus on a re-usable API backend infrastructure built to scale and eventually go native. 
+**Tech:** TypeScript · AI SDKs · Automated Workflow Logic
+
+### 🌐 Community Marketplace PWA — *Client Work*
+Architecting a high-performance Progressive Web App marketplace with a reusable, scalable API backend — built to eventually go native. Emphasis on Canadian data residency and real community utility.
+
+**Tech:** Node.js · TypeScript · PostgreSQL · AWS · Stripe Connect
 
 ---
 
@@ -48,23 +52,24 @@ Architecting a high-performance Progressive Web App marketplace with a focus on 
 <details>
 <summary><b>View Full Toolbox</b></summary>
 
-**Frameworks:** Express, Fastify, Flask, Django, Spring Boot, Next.js, React  
-**DB/ORM:** MongoDB, MySQL, SQLite, Prisma, Sequelize, RabbitMQ  
-**DevOps:** GCP, Azure, Railway, Vercel, Nginx, GitHub Actions  
-**Testing:** Playwright, Jest, Vitest, Selenium, Pytest, Postman  
-**Tools:** Git, Linux, Vim, Bash, PowerShell, Jira  
+**Frameworks:** Express · Fastify · Flask · Django · Spring Boot · Next.js · React  
+**DB/ORM:** MongoDB · MySQL · SQLite · Prisma · Sequelize · RabbitMQ  
+**DevOps:** GCP · Azure · Railway · Vercel · Nginx · GitHub Actions  
+**Testing:** Playwright · Jest · Vitest · Selenium · Pytest · Postman  
+**Tools:** Git · Linux · Vim · Bash · PowerShell · Jira  
+
 </details>
 
 ---
 
 ## 📂 Featured Repositories
 
-* **⚙️ [workflow-engine](https://github.com/Ritchotte/workflow-engine)**: Event-driven task processing system built with Node.js.
-* **🐞 [bug-tracker-demo](https://github.com/Ritchotte/bug-tracker-demo)**: Robust backend service for system-wide issue tracking.
-* **🧪 [playwright-api-testing](https://github.com/Ritchotte/playwright-api-testing)**: Automated validation suite for mission-critical APIs.
+- **⚙️ [workflow-engine](https://github.com/Ritchotte/workflow-engine)** — Event-driven task processing system built with Node.js
+- **🐞 [bug-tracker-demo](https://github.com/Ritchotte/bug-tracker-demo)** — Robust backend service for system-wide issue tracking
+- **🧪 [playwright-api-testing](https://github.com/Ritchotte/playwright-api-testing)** — Automated validation suite for mission-critical APIs
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-* 📧 **Email:** ruthannaritchotte@gmail.com
+📧 ruthannaritchotte@gmail.com

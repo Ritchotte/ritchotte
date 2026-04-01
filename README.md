@@ -5,16 +5,6 @@ I build systems that handle complexity so people don't have to. My work spans AI
 Currently at **BCIT** and **Mila Institute**.
 ---
 
-## 🔧 Engineering Philosophy
-
-> **"I complexly enjoy building simply."**
-
-Simple is the hardest thing to ship. It's the result of exhaustive research, ruthless refactoring, and understanding a problem deeply enough to know what to leave out.
-
-- **Complexity** is where I do the work — edge cases, system design, rigorous testing
-- **Simplicity** is what I deliver — clean APIs, clear documentation, code worth maintaining
-
----
 
 ## 🚀 What I'm Currently Building
 

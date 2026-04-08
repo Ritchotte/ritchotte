@@ -1,8 +1,6 @@
 # Hi, I'm Ruth Anna 👋
 
-I build systems that handle complexity so people don't have to. My work spans AI infrastructure, full-stack platforms, and automation — with a focus on architecture that scales cleanly and code that's easy to live with long-term.
 
-Currently at **BCIT** and **Mila Institute**.
 ---
 
 

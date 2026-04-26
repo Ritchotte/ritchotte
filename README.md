@@ -1,16 +1,6 @@
 # Hi, I'm Ruth Anna 👋
 
 
----
-
-
-## 🚀 What I'm Currently Building
-
-### 🛠️ [Studion](https://github.com/Ritchotte/Studion) — *Passion Project*
-An AI-powered operating system for students. Studion automates the meta-work of education — syncing assignments, deadlines, and study workflows into a unified intelligent dashboard so students can focus on learning, not logistics.
-
-**Tech:** TypeScript · AI SDKs · Automated Workflow Logic
-
 ### 🌐 Community Marketplace PWA — *Client Work*
 Architecting a high-performance Progressive Web App marketplace with a reusable, scalable API backend — built to eventually go native. Emphasis on Canadian data residency and real community utility.
 
